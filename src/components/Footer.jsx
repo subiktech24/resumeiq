@@ -52,9 +52,9 @@ const Footer = () => {
             <div className="footer-dev-info">
               <div className="footer-dev-avatar">S</div>
               <div>
-                <p className="footer-dev-name">Subik</p>
+                <p className="footer-dev-name">Subiksha suresh</p>
                 <a href="mailto:your@email.com" className="footer-dev-email" id="dev-email-link">
-                  your@email.com
+                  subikshasuresh1909@email.com
                 </a>
               </div>
             </div>
